@@ -36,7 +36,6 @@ Paste this code into a Colab cell and run it to download all the necessary depen
 
 ## Tutorials
 * **3Blue1Brown** Neural Networks playlist : [youtube playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-* **Andrej Karpathy** Neural Networks playlist : [youtube playlist](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 * **Andrej Karpathy** Convolutional Neural Networks for visual recognition : [youtube playlist](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 * **DeepLearningAI** Convolutional Neural Networks : [youtube playlist](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
 * **Learn With Jay** Transformers playlist : [youtube playlist](https://www.youtube.com/watch?v=lRylkiFdUdk&list=PLuhqtP7jdD8CQTxwVsuiFYGvHtFpNhlR3)
