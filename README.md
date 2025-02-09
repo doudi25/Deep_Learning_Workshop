@@ -56,13 +56,7 @@ in this workshop we will use [**MNIST** (**M**odified **N**ational **I**nstitute
 
 
 ## Roadmap
-<p align="center">
-  <img 
-  src="https://i.ibb.co/mF9Rbcg9/Deep-Learning-roadmap.jpg" 
-  alt="Full-width image" 
-  style="width: 100%; height: auto;"
-  /> 
-</p>
+<p align="center"><img src="https://i.ibb.co/mF9Rbcg9/Deep-Learning-roadmap.jpg" />  </p>
 
 ## Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/doudi25Deep_Learning_Workshop/pulls) 
